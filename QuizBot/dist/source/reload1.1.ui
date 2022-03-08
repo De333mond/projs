@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>533</width>
+    <height>316</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(19, 23, 31);
+color: white;
+</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="StartBTN">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>260</y>
+      <width>100</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>B612</family>
+      <pointsize>12</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+	border: 2px solid #24262D;
+	border-radius: 15;
+	color: #961227;
+	background-color: #1C1F26;
+}
+
+QPushButton:hover {
+	background-color:#961227;
+	color: #1C1F26;
+}
+
+QPushButton:pressed{
+background-color: rgb(125, 14, 33);
+}
+
+
+</string>
+    </property>
+    <property name="text">
+     <string>Start</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>10</y>
+      <width>162</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>B612</family>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <italic>false</italic>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(150, 18, 39);</string>
+    </property>
+    <property name="text">
+     <string>Check timeout(msc)</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="LE_check_timeout">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>10</y>
+      <width>71</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(150, 18, 39);
+border: 2px solid #24262d;</string>
+    </property>
+    <property name="inputMask">
+     <string/>
+    </property>
+    <property name="text">
+     <string>200</string>
+    </property>
+    <property name="maxLength">
+     <number>5</number>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+    </property>
+   </widget>
+   <widget class="QGroupBox" name="Dirs">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>50</y>
+      <width>221</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>8</pointsize>
+      <weight>50</weight>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">	border: 2px solid #24262D;
+	color: #961227;</string>
+    </property>
+    <property name="title">
+     <string>Dirs</string>
+    </property>
+    <widget class="QPushButton" name="OpenLogBTN">
+     <property name="geometry">
+      <rect>
+       <x>130</x>
+       <y>20</y>
+       <width>91</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>B612</family>
+       <pointsize>12</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton {
+	border: 2px solid #24262D;
+	border-radius: 11;
+	color: #961227;
+	background-color: #1C1F26;
+}
+
+QPushButton:hover {
+	background-color:#961227;
+	color: #1C1F26;
+}
+
+QPushButton:pressed{
+background-color: rgb(125, 14, 33);
+}
+
+
+</string>
+     </property>
+     <property name="text">
+      <string>Open</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_3">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>20</y>
+       <width>71</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>B612</family>
+       <pointsize>12</pointsize>
+       <weight>75</weight>
+       <italic>false</italic>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color: rgb(150, 18, 39);
+border: 0px solid #24262D;</string>
+     </property>
+     <property name="text">
+      <string>Log</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_6">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>50</y>
+       <width>71</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>B612</family>
+       <pointsize>12</pointsize>
+       <weight>75</weight>
+       <italic>false</italic>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color: rgb(150, 18, 39);
+	border: 0px solid #24262D;
+	</string>
+     </property>
+     <property name="text">
+      <string>Answers</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="OpenAnswBTN">
+     <property name="geometry">
+      <rect>
+       <x>130</x>
+       <y>50</y>
+       <width>91</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>B612</family>
+       <pointsize>12</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton {
+	border: 2px solid #24262D;
+	border-radius: 11;
+	color: #961227;
+	background-color: #1C1F26;
+}
+
+QPushButton:hover {
+	background-color:#961227;
+	color: #1C1F26;
+}
+
+QPushButton:pressed{
+background-color: rgb(125, 14, 33);
+}
+
+
+</string>
+     </property>
+     <property name="text">
+      <string>Open</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="Stat">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>150</y>
+      <width>221</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">	border: 2px solid #24262D;
+	color: #961227;</string>
+    </property>
+    <property name="title">
+     <string>Stat</string>
+    </property>
+    <widget class="QLCDNumber" name="lcd_total">
+     <property name="geometry">
+      <rect>
+       <x>130</x>
+       <y>20</y>
+       <width>71</width>
+       <height>23</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true"/>
+     </property>
+     <property name="smallDecimalPoint">
+      <bool>false</bool>
+     </property>
+     <property name="digitCount">
+      <number>6</number>
+     </property>
+     <property name="intValue" stdset="0">
+      <number>0</number>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_5">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>60</y>
+       <width>91</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>B612</family>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <italic>false</italic>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color: rgb(150, 18, 39);
+border: 0px solid #24262D;</string>
+     </property>
+     <property name="text">
+      <string>time to next</string>
+     </property>
+    </widget>
+    <widget class="QLCDNumber" name="lcd_timer">
+     <property name="geometry">
+      <rect>
+       <x>130</x>
+       <y>60</y>
+       <width>71</width>
+       <height>23</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true"/>
+     </property>
+     <property name="smallDecimalPoint">
+      <bool>false</bool>
+     </property>
+     <property name="digitCount">
+      <number>6</number>
+     </property>
+     <property name="intValue" stdset="0">
+      <number>0</number>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_4">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>20</y>
+       <width>91</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>B612</family>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <italic>false</italic>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color: rgb(150, 18, 39);
+	border: 0px solid #24262D;</string>
+     </property>
+     <property name="text">
+      <string>Total money</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="Stat_3">
+    <property name="geometry">
+     <rect>
+      <x>270</x>
+      <y>10</y>
+      <width>241</width>
+      <height>271</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">	border: 2px solid #24262D;
+	color: #961227;</string>
+    </property>
+    <property name="title">
+     <string>Settings(msc)</string>
+    </property>
+    <widget class="QCheckBox" name="CB_beep">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>220</y>
+       <width>84</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Beep</string>
+     </property>
+     <property name="checked">
+      <bool>false</bool>
+     </property>
+     <property name="tristate">
+      <bool>false</bool>
+     </property>
+    </widget>
+    <widget class="QWidget" name="layoutWidget">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>20</y>
+       <width>230</width>
+       <height>191</height>
+      </rect>
+     </property>
+     <layout class="QFormLayout" name="formLayout_2">
+      <item row="0" column="0">
+       <widget class="QLabel" name="label_13">
+        <property name="font">
+         <font>
+          <family>B612</family>
+          <pointsize>10</pointsize>
+          <weight>75</weight>
+          <italic>false</italic>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+	border: 0px solid #24262D;</string>
+        </property>
+        <property name="text">
+         <string>Base delay</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QLineEdit" name="LE_delay_after_detecting">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+border: 2px solid #24262d;</string>
+        </property>
+        <property name="inputMask">
+         <string/>
+        </property>
+        <property name="text">
+         <string>1000</string>
+        </property>
+        <property name="maxLength">
+         <number>5</number>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLabel" name="label_14">
+        <property name="font">
+         <font>
+          <family>B612</family>
+          <pointsize>10</pointsize>
+          <weight>75</weight>
+          <italic>false</italic>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+	border: 0px solid #24262D;</string>
+        </property>
+        <property name="text">
+         <string>Random multi</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="1">
+       <widget class="QLineEdit" name="LE_random_multi">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+border: 2px solid #24262d;</string>
+        </property>
+        <property name="inputMask">
+         <string/>
+        </property>
+        <property name="text">
+         <string>0.6</string>
+        </property>
+        <property name="maxLength">
+         <number>5</number>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QLabel" name="label_15">
+        <property name="font">
+         <font>
+          <family>B612</family>
+          <pointsize>10</pointsize>
+          <weight>75</weight>
+          <italic>false</italic>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+	border: 0px solid #24262D;</string>
+        </property>
+        <property name="text">
+         <string>Tapping delay</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="1">
+       <widget class="QLineEdit" name="LE_tapping_delay">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+border: 2px solid #24262d;</string>
+        </property>
+        <property name="inputMask">
+         <string/>
+        </property>
+        <property name="text">
+         <string>0.03</string>
+        </property>
+        <property name="maxLength">
+         <number>5</number>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="0">
+       <widget class="QLabel" name="label_16">
+        <property name="font">
+         <font>
+          <family>B612</family>
+          <pointsize>10</pointsize>
+          <weight>75</weight>
+          <italic>false</italic>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+	border: 0px solid #24262D;</string>
+        </property>
+        <property name="text">
+         <string>Quiz timout</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="1">
+       <widget class="QLineEdit" name="LE_quiz_timeout">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+border: 2px solid #24262d;</string>
+        </property>
+        <property name="inputMask">
+         <string/>
+        </property>
+        <property name="text">
+         <string>1200000</string>
+        </property>
+        <property name="maxLength">
+         <number>12</number>
+        </property>
+        <property name="cursorPosition">
+         <number>7</number>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="0">
+       <widget class="QLabel" name="label_17">
+        <property name="font">
+         <font>
+          <family>B612</family>
+          <pointsize>10</pointsize>
+          <weight>75</weight>
+          <italic>false</italic>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+	border: 0px solid #24262D;</string>
+        </property>
+        <property name="text">
+         <string>Skip chance*</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="1">
+       <widget class="QLineEdit" name="LE_skip_chance">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+border: 2px solid #24262d;</string>
+        </property>
+        <property name="inputMask">
+         <string/>
+        </property>
+        <property name="text">
+         <string>0</string>
+        </property>
+        <property name="maxLength">
+         <number>5</number>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="0">
+       <widget class="QLabel" name="label_18">
+        <property name="font">
+         <font>
+          <family>B612</family>
+          <pointsize>10</pointsize>
+          <weight>75</weight>
+          <italic>false</italic>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+	border: 0px solid #24262D;</string>
+        </property>
+        <property name="text">
+         <string>NIght delay* </string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="1">
+       <widget class="QLineEdit" name="LE_night_delay">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+border: 2px solid #24262d;</string>
+        </property>
+        <property name="inputMask">
+         <string/>
+        </property>
+        <property name="text">
+         <string>5000</string>
+        </property>
+        <property name="maxLength">
+         <number>5</number>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="1">
+       <widget class="QLineEdit" name="LE_reading_delay">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+border: 2px solid #24262d;</string>
+        </property>
+        <property name="inputMask">
+         <string/>
+        </property>
+        <property name="text">
+         <string>3</string>
+        </property>
+        <property name="maxLength">
+         <number>5</number>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="0">
+       <widget class="QLabel" name="label_19">
+        <property name="font">
+         <font>
+          <family>B612</family>
+          <pointsize>10</pointsize>
+          <weight>75</weight>
+          <italic>false</italic>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">color: rgb(150, 18, 39);
+	border: 0px solid #24262D;</string>
+        </property>
+        <property name="text">
+         <string>Reading delay</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+    <widget class="QCheckBox" name="CB_night_mode">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>240</y>
+       <width>84</width>
+       <height>17</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Nigt mode*</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="CB_Emulate_reading">
+     <property name="geometry">
+      <rect>
+       <x>100</x>
+       <y>220</y>
+       <width>101</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Emulate reading</string>
+     </property>
+     <property name="checked">
+      <bool>false</bool>
+     </property>
+     <property name="tristate">
+      <bool>false</bool>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>533</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QMenuBar { 
+	background-color:#0f1219;
+    spacing: 3px; /* spacing between menu bar items */
+	
+}
+
+QMenuBar::item {
+    padding: 1px 4px;
+    background: transparent;
+   	border-radius: 4px;
+}
+
+
+QMenuBar::item:pressed {
+    background: rgb(150, 18, 39);
+	color: White;
+}
+
+QMenuBar::item:selected  {
+    background: rgb(125, 14, 33);
+	color: White;
+}</string>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="styleSheet">
+     <string notr="true">QMenu {
+    background-color: #1c1f26 ; /* sets background of the menu */
+    border: 1px solid #1c1f26;
+}
+
+QMenu::item {
+    /* sets background of menu item. set this to something non-transparent
+        if you want menu color and menu item color to be different */
+    background-color: transparent;
+}
+
+QMenu::item:selected { /* when user selects item using mouse or keyboard */
+    background-color: #961227;
+	color : white;
+}</string>
+    </property>
+    <property name="title">
+     <string>menu</string>
+    </property>
+    <addaction name="A_Save"/>
+    <addaction name="A_Load"/>
+   </widget>
+   <addaction name="menu"/>
+  </widget>
+  <action name="actionSettings">
+   <property name="text">
+    <string>Settings</string>
+   </property>
+  </action>
+  <action name="actionSave">
+   <property name="text">
+    <string>Save</string>
+   </property>
+  </action>
+  <action name="actionLoad">
+   <property name="text">
+    <string>Load</string>
+   </property>
+  </action>
+  <action name="actionm_hv">
+   <property name="text">
+    <string>m.hv</string>
+   </property>
+  </action>
+  <action name="A_Save">
+   <property name="text">
+    <string>Save</string>
+   </property>
+  </action>
+  <action name="A_Load">
+   <property name="text">
+    <string>Load</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

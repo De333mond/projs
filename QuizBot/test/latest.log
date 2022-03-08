@@ -1,0 +1,907 @@
+[01:45:37] [main/INFO]: Setting user: Dezzzmond
+[01:45:41] [Client thread/INFO]: LWJGL Version: 2.9.1
+[01:45:42] [Client thread/ERROR]: Couldn't initialize twitch stream
+[01:45:43] [Client thread/INFO]: Reloading ResourceManager: Default, CustomOverridingResources
+[01:46:22] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:optifineRus, FMLFileResourcePack:ArmorStatusHUD, FMLFileResourcePack:StatusEffectHUD, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Advanced Solar Panels, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:WorldEngine, FMLFileResourcePack:asjpatcher, FMLFileResourcePack:Alfheim, FMLFileResourcePack:alfmod, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Anti Clicker, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:ArchitectureCraft, FMLFileResourcePack:Aroma1997Core|Helper, FMLFileResourcePack:Aroma1997's Dimensional World, FMLFileResourcePack:Automagy, FMLFileResourcePack:Azimuth, FMLFileResourcePack:Ban Swap Mod, FMLFileResourcePack:bCore, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Questing, FMLFileResourcePack:Better Signs Mod, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:BiomesExtender, FMLFileResourcePack:Botania, FMLFileResourcePack:BotaniaAddon, FMLFileResourcePack:Botania Demystified, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:Disable Pusher Mod, FMLFileResourcePack:Egg Break Mod, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChangeMoney, FMLFileResourcePack:Chisel, FMLFileResourcePack:My Statistics, FMLFileResourcePack:ClientWG, FMLFileResourcePack:Close Gui Fix Mod, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Compacter, FMLFileResourcePack:Companions, FMLFileResourcePack:Container Fix Mod, FMLFileResourcePack:CreativeCore, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:CustomThings, FMLFileResourcePack:DemonicEvolution, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:Dragon's Radio Mod, FMLFileResourcePack:DragonStorage, FMLFileResourcePack:Electrifood, FMLFileResourcePack:Electro-Magic Tools, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:Ender Portal Mod, FMLFileResourcePack:Extended Machines, FMLFileResourcePack:Extended Potions, FMLFileResourcePack:Extra Cells 2, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Fairy Lights, FMLFileResourcePack:Firework Fix Mod, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Forgotten Relics, FMLFileResourcePack:Genomica, FMLFileResourcePack:God Flugel, FMLFileResourcePack:Graviation Suite, FMLFileResourcePack:GraviSuite Addon, FMLFileResourcePack:GraviSuiteReloaded, FMLFileResourcePack:Grimoire of Gaia 3, FMLFileResourcePack:Grow End, FMLFileResourcePack:Gui Mouse Block, FMLFileResourcePack:HuskyAuth, FMLFileResourcePack:HuskyAutoReconnect, FMLFileResourcePack:hbirdge, FMLFileResourcePack:Husky Daily Rewards, FMLFileResourcePack:Hive Fix Mod, FMLFileResourcePack:HuskyBB, FMLFileResourcePack:HuskyChest, FMLFileResourcePack:HuskyCustomize, FMLFileResourcePack:HuskyHelper, FMLFileResourcePack:HuskyHolidays, FMLFileResourcePack:HHolo, FMLFileResourcePack:HuskyOmniscience, FMLFileResourcePack:HuskyWatcher, FMLFileResourcePack:Nuclear Control 2, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:ImprovemedSaber, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:IntegratedSolarPanels, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:ItemBlacklist, FMLFileResourcePack:ItemCommands, FMLFileResourcePack:ItemOwner, FMLFileResourcePack:KillerHUD, FMLFileResourcePack:Larger Workbenches, FMLFileResourcePack:MadMessages, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:ThaumCraftAddon, FMLFileResourcePack:ThaumCraftAddon, FMLFileResourcePack:Doom, FMLFileResourcePack:MineTuner, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:NamePlates, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:EndPortalFix, FMLFileResourcePack:Netherite Backport, FMLFileResourcePack:NetheritePlus+, FMLFileResourcePack:§6Netherlicious, FMLFileResourcePack:PVP Player Protector, FMLFileResourcePack:octoshop-client, FMLFileResourcePack:gui-mod, FMLFileResourcePack:Rabbit Gui Library, FMLFileResourcePack:OnlinePictureFrame, FMLFileResourcePack:Opis, FMLFileResourcePack:p455w0rd's Library, FMLFileResourcePack:PowerUtils, FMLFileResourcePack:PVP Player Info, FMLFileResourcePack:ReArmor, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:ShowMoney, FMLFileResourcePack:SkinPatcher by K773, FMLFileResourcePack:SlashBlade, FMLFileResourcePack:Solar Expansion, FMLFileResourcePack:Solar Lib, FMLFileResourcePack:Super Solar Panel, FMLFileResourcePack:Stack Change Mod, FMLFileResourcePack:Standard Expansion, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Streak, FMLFileResourcePack:Symcalc, FMLFileResourcePack:Tainted Magic, FMLFileResourcePack:TC Inventory Scanning, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:ThaumCraftAddon, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Activation, FMLFileResourcePack:Thaumic Energistics, FMLFileResourcePack:Thaumic Horizons, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:The Six Jars, FMLFileResourcePack:The Solar Synthesis, FMLFileResourcePack:Trade O Mat, FMLFileResourcePack:Trade Me, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:Twilight Forest Portal Catalyst, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:vending, FMLFileResourcePack:Waila, FMLFileResourcePack:Wither Death Mod, FMLFileResourcePack:WorldEdit Client User Interface, FMLFileResourcePack:WrenchBlocker, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, CustomOverridingResources
+[01:47:06] [Sound Library Loader/INFO]: Sound engine started
+[01:47:11] [Client thread/WARN]: File customnpcs:sounds/songs/Failboat103 - Excalibuuur.ogg does not exist, cannot add it to event customnpcs:songs.excalibur
+[01:47:11] [Client thread/WARN]: File customnpcs:sounds/songs/TheKyleb - 7 by 8.ogg does not exist, cannot add it to event customnpcs:songs.kyleb_7by8
+[01:47:11] [Client thread/WARN]: File customnpcs:sounds/songs/TheKyleb - Bard.ogg does not exist, cannot add it to event customnpcs:songs.kyleb_bard
+[01:47:11] [Client thread/WARN]: File doom:sounds/arachnotron_attack.ogg does not exist, cannot add it to event doom:doom.arachnotron_attack
+[01:47:11] [Client thread/WARN]: File doom:sounds/psoldier_hit.ogg does not exist, cannot add it to event doom:doom.psoldier_hit
+[01:47:13] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[01:47:13] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[01:47:30] [Client thread/INFO]: Created: 16x16 textures/revolvers-atlas
+[01:47:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:optifineRus, FMLFileResourcePack:ArmorStatusHUD, FMLFileResourcePack:StatusEffectHUD, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Advanced Solar Panels, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:WorldEngine, FMLFileResourcePack:asjpatcher, FMLFileResourcePack:Alfheim, FMLFileResourcePack:alfmod, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Anti Clicker, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:ArchitectureCraft, FMLFileResourcePack:Aroma1997Core|Helper, FMLFileResourcePack:Aroma1997's Dimensional World, FMLFileResourcePack:Automagy, FMLFileResourcePack:Azimuth, FMLFileResourcePack:Ban Swap Mod, FMLFileResourcePack:bCore, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Questing, FMLFileResourcePack:Better Signs Mod, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:BiomesExtender, FMLFileResourcePack:Botania, FMLFileResourcePack:BotaniaAddon, FMLFileResourcePack:Botania Demystified, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:Disable Pusher Mod, FMLFileResourcePack:Egg Break Mod, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChangeMoney, FMLFileResourcePack:Chisel, FMLFileResourcePack:My Statistics, FMLFileResourcePack:ClientWG, FMLFileResourcePack:Close Gui Fix Mod, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Compacter, FMLFileResourcePack:Companions, FMLFileResourcePack:Container Fix Mod, FMLFileResourcePack:CreativeCore, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:CustomThings, FMLFileResourcePack:DemonicEvolution, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:Dragon's Radio Mod, FMLFileResourcePack:DragonStorage, FMLFileResourcePack:Electrifood, FMLFileResourcePack:Electro-Magic Tools, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:Ender Portal Mod, FMLFileResourcePack:Extended Machines, FMLFileResourcePack:Extended Potions, FMLFileResourcePack:Extra Cells 2, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Fairy Lights, FMLFileResourcePack:Firework Fix Mod, FMLFileResourcePack:Forbidden Magic, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Forgotten Relics, FMLFileResourcePack:Genomica, FMLFileResourcePack:God Flugel, FMLFileResourcePack:Graviation Suite, FMLFileResourcePack:GraviSuite Addon, FMLFileResourcePack:GraviSuiteReloaded, FMLFileResourcePack:Grimoire of Gaia 3, FMLFileResourcePack:Grow End, FMLFileResourcePack:Gui Mouse Block, FMLFileResourcePack:HuskyAuth, FMLFileResourcePack:HuskyAutoReconnect, FMLFileResourcePack:hbirdge, FMLFileResourcePack:Husky Daily Rewards, FMLFileResourcePack:Hive Fix Mod, FMLFileResourcePack:HuskyBB, FMLFileResourcePack:HuskyChest, FMLFileResourcePack:HuskyCustomize, FMLFileResourcePack:HuskyHelper, FMLFileResourcePack:HuskyHolidays, FMLFileResourcePack:HHolo, FMLFileResourcePack:HuskyOmniscience, FMLFileResourcePack:HuskyWatcher, FMLFileResourcePack:Nuclear Control 2, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:ImprovemedSaber, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:IntegratedSolarPanels, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:ItemBlacklist, FMLFileResourcePack:ItemCommands, FMLFileResourcePack:ItemOwner, FMLFileResourcePack:KillerHUD, FMLFileResourcePack:Larger Workbenches, FMLFileResourcePack:MadMessages, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:ThaumCraftAddon, FMLFileResourcePack:ThaumCraftAddon, FMLFileResourcePack:Doom, FMLFileResourcePack:MineTuner, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:NamePlates, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:EndPortalFix, FMLFileResourcePack:Netherite Backport, FMLFileResourcePack:NetheritePlus+, FMLFileResourcePack:§6Netherlicious, FMLFileResourcePack:PVP Player Protector, FMLFileResourcePack:octoshop-client, FMLFileResourcePack:gui-mod, FMLFileResourcePack:Rabbit Gui Library, FMLFileResourcePack:OnlinePictureFrame, FMLFileResourcePack:Opis, FMLFileResourcePack:p455w0rd's Library, FMLFileResourcePack:PowerUtils, FMLFileResourcePack:PVP Player Info, FMLFileResourcePack:ReArmor, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:ShowMoney, FMLFileResourcePack:SkinPatcher by K773, FMLFileResourcePack:SlashBlade, FMLFileResourcePack:Solar Expansion, FMLFileResourcePack:Solar Lib, FMLFileResourcePack:Super Solar Panel, FMLFileResourcePack:Stack Change Mod, FMLFileResourcePack:Standard Expansion, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Streak, FMLFileResourcePack:Symcalc, FMLFileResourcePack:Tainted Magic, FMLFileResourcePack:TC Inventory Scanning, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:ThaumCraftAddon, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Activation, FMLFileResourcePack:Thaumic Energistics, FMLFileResourcePack:Thaumic Horizons, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:The Six Jars, FMLFileResourcePack:The Solar Synthesis, FMLFileResourcePack:Trade O Mat, FMLFileResourcePack:Trade Me, FMLFileResourcePack:Traveller's Gear, FMLFileResourcePack:Twilight Forest Portal Catalyst, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:vending, FMLFileResourcePack:Waila, FMLFileResourcePack:Wither Death Mod, FMLFileResourcePack:WorldEdit Client User Interface, FMLFileResourcePack:WrenchBlocker, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, BetterQuesting_folders, BetterQuesting_files, CustomThings-Resourcepack.zip, CustomResources, FMLFileResourcePack:Carpenter's Blocks Cached Resources, resources, CustomOverridingResources
+[01:47:56] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/endstone/EnderFrame.png, java.io.FileNotFoundException
+[01:47:56] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1463_EMT.machine.png, java.io.FileNotFoundException
+[01:47:56] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/blocks/repairer.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/blocks/magnet.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/quartz_block_insert.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1455_foundry.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_rainbow_0.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_rainbow_1.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_rainbow_2.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_rainbow_3.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_rainbow_4.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_rainbow_5.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_rainbow_6.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_rainbow_7.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_multicolor_1.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_multicolor_0.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_multicolor_3.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_multicolor_2.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_multicolor_5.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_multicolor_4.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_multicolor_7.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_multicolor_6.png, java.io.FileNotFoundException
+[01:47:57] [Client thread/ERROR]: Unable to parse metadata from fdwbotaniaaddon:textures/blocks/bellows_update.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at net.minecraft.client.renderer.texture.TextureAtlasSprite.func_147964_a(TextureAtlasSprite.java:273) ~[bqd.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:242) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:136) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(TextureManager.java:94) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110549_a(TextureManager.java:200) [bqf.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SimpleReloadableResourceManager.java:143) [brg.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SimpleReloadableResourceManager.java:121) [brg.class:?]
+	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:609) [bao.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:327) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_261]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_261]
+	at net.k773.GameStarter.newstart(GameStarter.java) [launcher.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_261]
+	at net.k773.GameStarter.start(GameStarter.java) [launcher.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_261]
+	at net.k773.utils.Client.start(Client.java) [launcher.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_261]
+	at net.k773.Start.<init>(Start.java) [launcher.jar:?]
+	at Mainclass.main(Mainclass.java:11) [launcher.jar:?]
+[01:47:58] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1456_foundryCauldron.png, java.io.FileNotFoundException
+[01:47:58] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1532_extracells.block.walrus.png, java.io.FileNotFoundException
+[01:47:58] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1464_EMT.essentia.png, java.io.FileNotFoundException
+[01:47:58] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/apple.png, java.io.FileNotFoundException
+[01:47:58] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1457_hellAnvil.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2040_BlockUltimateFurnace.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load compacter:textures/blocks/cobbler.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load fdwbotaniaaddon:textures/blocks/mana_charger.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_green_2.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_green_1.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_green_4.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_green_3.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_green_0.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_green_6.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_green_5.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_green_7.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_hammer_5.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_hammer_4.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_hammer_3.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_hammer_2.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_hammer_7.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_hammer_6.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_hammer_1.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_hammer_0.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/quartz_block_smooth.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load alfheim:textures/blocks/AnomalyHarvester.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_orange_6.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_orange_7.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_orange_4.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_orange_5.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_orange_2.png, java.io.FileNotFoundException
+[01:47:59] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_orange_3.png, java.io.FileNotFoundException
+[01:48:00] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_orange_0.png, java.io.FileNotFoundException
+[01:48:00] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_quilt_orange_1.png, java.io.FileNotFoundException
+[01:48:00] [Client thread/ERROR]: Using missing texture, unable to load gravisuite:textures/blocks/block_side.png.png, java.io.FileNotFoundException
+[01:48:00] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1454_coldPredator.png, java.io.FileNotFoundException
+[01:48:00] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/planks.png, java.io.FileNotFoundException
+[01:48:00] [Client thread/ERROR]: Using missing texture, unable to load demonicevo:textures/blocks/metal_flowing.png, java.io.FileNotFoundException
+[01:48:00] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1453_coldMetal.png, java.io.FileNotFoundException
+[01:48:00] [Client thread/ERROR]: Using missing texture, unable to load immersiveengineering:textures/blocks/metal2_skycrateDispenser.png, java.io.FileNotFoundException
+[01:48:00] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1681_deco.png, java.io.FileNotFoundException
+[01:48:01] [Client thread/ERROR]: Using missing texture, unable to load demonicevo:textures/blocks/metal_still.png, java.io.FileNotFoundException
+[01:48:01] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_snowflake_6.png, java.io.FileNotFoundException
+[01:48:01] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_snowflake_7.png, java.io.FileNotFoundException
+[01:48:01] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_snowflake_4.png, java.io.FileNotFoundException
+[01:48:01] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_snowflake_5.png, java.io.FileNotFoundException
+[01:48:01] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_snowflake_2.png, java.io.FileNotFoundException
+[01:48:01] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_snowflake_3.png, java.io.FileNotFoundException
+[01:48:01] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_snowflake_0.png, java.io.FileNotFoundException
+[01:48:01] [Client thread/ERROR]: Using missing texture, unable to load carpentersblockscachedresources:textures/blocks/designs/bed/cache/carpenters_snowflake_1.png, java.io.FileNotFoundException
+[01:48:03] [Client thread/INFO]: Created: 4096x2048 textures/blocks-atlas
+[01:48:03] [Client thread/ERROR]: Using missing texture, unable to load immersiveengineering:textures/revolvers/revolver_tesla.png, java.io.FileNotFoundException
+[01:48:03] [Client thread/ERROR]: Using missing texture, unable to load immersiveengineering:textures/revolvers/revolver_rose.png, java.io.FileNotFoundException
+[01:48:03] [Client thread/INFO]: Created: 1024x1024 textures/revolvers-atlas
+[01:48:03] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5947_lemon.png, java.io.FileNotFoundException
+[01:48:03] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6330_ItemTest.png, java.io.FileNotFoundException
+[01:48:03] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6091_chainsaweternal.png, java.io.FileNotFoundException
+[01:48:03] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5509_spectralArmor_3.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6096_bfg9000.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load alfheim:textures/items/materials/Shard.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5945_null.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6095_shotgun.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5500_predatorArmor_2.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6368_focusXPDrain.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6363_focusDislocation.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5526_soulJar.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load bcore:textures/items/FlowerBandHat.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5498_predatorArmor_0.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6362_focusRecall.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6382_focusDeflect.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5503_boneArmor_1.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/items/ichorShovelGem.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6099_rocketlauncher.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6102_chaingun.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6103_pistol.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6092_chainsaw64.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5622_extracells.pattern.crafting.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5491_alienArmor_1.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6094_supershotgun.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load draconicevolution:textures/items/chaosFragment.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6186_rearmor.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6098_plasmagun.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5946_null.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5527_dopant.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5492_alienArmor_2.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5502_boneArmor_0.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6036_shotgun_shells.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5497_demonicArmor_3.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5528_dopantBag.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5517_demonicScythe_1.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5508_spectralArmor_2.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5506_spectralArmor_0.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6090_chainsaw.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/items/ichorSwordGem.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load draconicevolution:textures/items/boneShovel.png, java.io.FileNotFoundException
+[01:48:04] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/items/ichorAxeGem.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6494_itemAspect.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6187_rearmor.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6083_cruciblesword.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5496_demonicArmor_2.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5495_demonicArmor_1.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5619_extracells.fluid.item.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5505_boneArmor_3.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5516_demonicScythe_0.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6394_focusShadowbeam.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6101_ballista.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5494_demonicArmor_0.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load botaniademystified:textures/items/icons/13.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load botaniademystified:textures/items/icons/14.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load botaniademystified:textures/items/icons/15.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load botaniademystified:textures/items/icons/16.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/items/ichorPickGem.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6097_bfg_eternal.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5513_boneSword.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6360_focusTelekinesis.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5507_spectralArmor_1.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/items/mobAspect.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load hholidays:textures/items/mandarins.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6359_focusHeal.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load huskychest:textures/items/eldritch_object_3.png.mc.png, java.io.FileNotFoundException
+[01:48:05] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_5632_extrautils:textures/items/lawSword.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5501_predatorArmor_3.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5499_predatorArmor_1.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6260_ItemKatana.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6093_axe_marauder_open.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5490_alienArmor_0.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6393_focusSmelt.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5529_demonEmblem.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6376_focusFlight.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6361_focusEnderChest.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6188_rearmor.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6100_unmaykr.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load draconicevolution:textures/items/demonicRod_0.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load draconicevolution:textures/items/demonicRod_1.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5493_alienArmor_3.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6104_heavycannon.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5504_boneArmor_2.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_5518_demonicScythe_2.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6189_rearmor.png, java.io.FileNotFoundException
+[01:48:06] [Client thread/INFO]: Created: 4096x2048 textures/items-atlas
+[01:48:07] [Sound Library Loader/INFO]: Sound engine started
+[01:48:07] [Client thread/WARN]: File customnpcs:sounds/songs/Failboat103 - Excalibuuur.ogg does not exist, cannot add it to event customnpcs:songs.excalibur
+[01:48:07] [Client thread/WARN]: File customnpcs:sounds/songs/TheKyleb - 7 by 8.ogg does not exist, cannot add it to event customnpcs:songs.kyleb_7by8
+[01:48:08] [Client thread/WARN]: File customnpcs:sounds/songs/TheKyleb - Bard.ogg does not exist, cannot add it to event customnpcs:songs.kyleb_bard
+[01:48:08] [Client thread/WARN]: File doom:sounds/arachnotron_attack.ogg does not exist, cannot add it to event doom:doom.arachnotron_attack
+[01:48:08] [Client thread/WARN]: File doom:sounds/psoldier_hit.ogg does not exist, cannot add it to event doom:doom.psoldier_hit
+[01:48:09] [Client thread/WARN]: Unable to parse metadata section of resourcepack: FMLFileResourcePack:Carpenter's Blocks Cached Resources
+java.lang.NullPointerException
+	at com.carpentersblocks.CarpentersBlocksCachedResources$DynamicFileResourcePack.func_110591_a(CarpentersBlocksCachedResources.java:80) ~[CarpentersBlocksCachedResources$DynamicFileResourcePack.class:?]
+	at net.minecraft.client.resources.AbstractResourcePack.func_135058_a(AbstractResourcePack.java:66) ~[bqn.class:?]
+	at net.minecraft.client.resources.LanguageManager.func_135043_a(LanguageManager.java:50) [brr.class:?]
+	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:622) [bao.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:327) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_261]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_261]
+	at net.k773.GameStarter.newstart(GameStarter.java) [launcher.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_261]
+	at net.k773.GameStarter.start(GameStarter.java) [launcher.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_261]
+	at net.k773.utils.Client.start(Client.java) [launcher.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_261]
+	at net.k773.Start.<init>(Start.java) [launcher.jar:?]
+	at Mainclass.main(Mainclass.java:11) [launcher.jar:?]
+[01:48:13] [Client thread/INFO]: Connecting to 145.239.131.135, 20005
+[01:48:18] [Client thread/INFO]: [CHAT] §5Не §5удалось §5проверить §5наличие §5обновлений §5для §6Forgotten §6Relics.
+[01:48:20] [Thread-14/INFO]: [CHAT] §2CustomNpcs§f installed. For more info §9§nClick here
+[01:48:24] [Client thread/INFO]: [CHAT] §d§lЕсли §d§lвы §d§lнесколько §d§lмесяцев §d§lне §d§lменяли §d§lпароль §d§lи §d§lне §d§lлюбитель §d§lрегулярно §d§lменять §d§lсвои §c§lпароли, §d§lто §d§lрекомендуем §d§lвам §d§lустановить §d§lдополнительный §d§lпароль §d§lв §d§lнастройках §d§lигры. §d§lДля §d§lустановки §d§lпароля §d§lнажмите §d§lна §d§lкнопку: §a§nЗащита§a§n §a§nаккаунта
+[01:48:36] [Client thread/INFO]: [CHAT] ====================================================
+[01:48:36] [Client thread/INFO]: [CHAT] Добро пожаловать на сервер DragonTech,  Dezzzmond!
+[01:48:36] [Client thread/INFO]: [CHAT] Чтобы писать в глобальный чат, поставьте перед сообщением знак "!"
+[01:48:36] [Client thread/INFO]: [CHAT] Полезные команды /kit food, /kit start, /kit private
+[01:48:36] [Client thread/INFO]: [CHAT] Время на сервере: 7:38 AM
+[01:48:36] [Client thread/INFO]: [CHAT] ====================================================
+[01:48:36] [Client thread/INFO]: [CHAT] Нет новых писем.
+[01:48:37] [Client thread/INFO]: [CHAT] codechickencore.update
+[01:48:38] [pool-3-thread-1/ERROR]: Textures payload has been tampered with (signature invalid)
+[01:49:09] [Client thread/INFO]: [CHAT] [Рядом] Dezzzmond: Р_Р_С_Р_С_Р_Р_С_ С_С_Р_Р_Р_Р_Р_Р_С_Р_С_Р_Р_С_ С_С_Р_Р_Р_Р__С_Р_Р_С_ С_С_Р_Р_Р_Р_
+[02:00:26] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 1 мобов.
+[02:06:27] [Client thread/INFO]: [CHAT] [Викторина] Когда вы делаете факелы, сколько вы получаете?
+[02:06:27] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[02:06:31] [Client thread/INFO]: [CHAT] [Викторина] AerGameChannel победил за 3.69 секунд! 
+[02:06:31] [Client thread/INFO]: [CHAT] AerGameChannel победил!
+[02:09:13] [Client thread/INFO]: [CHAT] [Рядом] Dezzzmond: dfg
+[02:12:36] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: мауфтриевый распространитель маны - имба
+[02:12:57] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: 6 мауфтрия, но оно того стоит
+[02:26:33] [Client thread/INFO]: [CHAT] [Викторина] Сколько досок требуется для создания верстака?
+[02:26:35] [Client thread/INFO]: [CHAT] [Викторина] AerGameChannel победил за 2.07 секунд! 
+[02:26:35] [Client thread/INFO]: [CHAT] AerGameChannel победил!
+[02:36:35] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[02:46:38] [Client thread/INFO]: [CHAT] [Викторина] Какого цвета крипер?
+[02:46:41] [Client thread/INFO]: [CHAT] [Викторина] AerGameChannel победил за 2.89 секунд! 
+[02:46:41] [Client thread/INFO]: [CHAT] AerGameChannel победил!
+[03:00:24] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: куплю пб ядро
+[03:06:42] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[03:06:42] [Client thread/INFO]: [CHAT] [Викторина] Сколько будет 2+2-2?
+[03:06:45] [Client thread/INFO]: [CHAT] [Викторина] AerGameChannel победил за 2.78 секунд! 
+[03:06:45] [Client thread/INFO]: [CHAT] AerGameChannel победил!
+[03:10:56] [Client thread/INFO]: [CHAT] [Рядом] Dezzzmond: sdf
+[03:10:58] [Client thread/INFO]: [CHAT] Одинаковые сообщения можно отправлять раз в 15 секунд.
+[03:11:01] [Client thread/INFO]: [CHAT] [Рядом] Dezzzmond: dfg
+[03:11:04] [Client thread/INFO]: [CHAT] [Рядом] Dezzzmond: fgh
+[03:26:46] [Client thread/INFO]: [CHAT] [Викторина] Механизм из мода Ender IO, который используется для варки различных жидкостей.
+[03:26:50] [Client thread/INFO]: [CHAT] [Викторина] AerGameChannel победил за 4.19 секунд! 
+[03:26:50] [Client thread/INFO]: [CHAT] AerGameChannel победил!
+[03:29:00] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: всем спокойной ночи
+[03:36:48] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[03:46:50] [Client thread/INFO]: [CHAT] [Викторина] Сколько дополнительного урона добавляет каждый уровень чаров Остроты?
+[03:48:50] [Client thread/INFO]: [CHAT] [Викторина] ka1LK победил за 120.38 секунд! 
+[03:48:50] [Client thread/INFO]: [CHAT] ka1LK победил!
+[03:49:05] [Client thread/INFO]: [CHAT] [Мир] ka1LK: продам вив кирку780монет
+[03:53:21] [Client thread/INFO]: [CHAT] [Server] **Перезагрузка сервера через 10 minutes**
+[03:53:50] [Client thread/INFO]: [CHAT] Приветствуем новичка " doldanik" на LemonCraft!
+[03:57:04] [Client thread/INFO]: [CHAT] [Мир] doldanik:  500 монет с ежедневки...
+[03:58:21] [Client thread/INFO]: [CHAT] [Server] **Перезагрузка сервера через 5 minutes**
+[04:02:21] [Client thread/INFO]: [CHAT] [Server] **Перезагрузка сервера через 1 minute**
+[04:03:37] [Client thread/INFO]: Connecting to 145.239.131.135, 20005
+[04:03:39] [Server Connector #2/ERROR]: Couldn't connect to server
+java.net.ConnectException: Connection refused: no further information: /145.239.131.135:20005
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_261]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source) ~[?:1.8.0_261]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:191) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:228) ~[AbstractNioChannel$AbstractNioUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:497) ~[NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447) ~[NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341) ~[NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) ~[SingleThreadEventExecutor$2.class:?]
+	at java.lang.Thread.run(Unknown Source) ~[?:1.8.0_261]
+[04:05:21] [Client thread/INFO]: Connecting to 145.239.131.135, 20005
+[04:05:30] [Client thread/INFO]: [CHAT] §d§lЕсли §d§lвы §d§lнесколько §d§lмесяцев §d§lне §d§lменяли §d§lпароль §d§lи §d§lне §d§lлюбитель §d§lрегулярно §d§lменять §d§lсвои §c§lпароли, §d§lто §d§lрекомендуем §d§lвам §d§lустановить §d§lдополнительный §d§lпароль §d§lв §d§lнастройках §d§lигры. §d§lДля §d§lустановки §d§lпароля §d§lнажмите §d§lна §d§lкнопку: §a§nЗащита§a§n §a§nаккаунта
+[04:05:30] [Client thread/INFO]: [CHAT] ====================================================
+[04:05:30] [Client thread/INFO]: [CHAT] Добро пожаловать на сервер DragonTech,  Dezzzmond!
+[04:05:30] [Client thread/INFO]: [CHAT] Чтобы писать в глобальный чат, поставьте перед сообщением знак "!"
+[04:05:30] [Client thread/INFO]: [CHAT] Полезные команды /kit food, /kit start, /kit private
+[04:05:30] [Client thread/INFO]: [CHAT] Время на сервере: 1:45 AM
+[04:05:30] [Client thread/INFO]: [CHAT] ====================================================
+[04:05:30] [Client thread/INFO]: [CHAT] Нет новых писем.
+[04:21:55] [Client thread/INFO]: [CHAT] [Рядом] Dezzzmond: asd
+[04:25:13] [Client thread/INFO]: [CHAT] [Викторина] Когда вы делаете железные решетки, сколько у вас получается?
+[04:25:18] [Client thread/INFO]: [CHAT] [Викторина] doldanik победил за 5.62 секунд! 
+[04:25:18] [Client thread/INFO]: [CHAT] doldanik победил!
+[04:26:41] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[04:27:20] [Client thread/INFO]: [CHAT] Одинаковые сообщения можно отправлять раз в 15 секунд.
+[04:27:20] [Client thread/INFO]: [CHAT] [Рядом] Dezzzmond: tзеленый
+[04:28:56] [Client thread/INFO]: [CHAT] [Рядом] Dezzzmond: зеленый
+[04:28:58] [Client thread/INFO]: [CHAT] Одинаковые сообщения можно отправлять раз в 15 секунд.
+[04:29:01] [Client thread/INFO]: [CHAT] Одинаковые сообщения можно отправлять раз в 15 секунд.
+[04:34:31] [Client thread/INFO]: [CHAT] [Рядом] Dezzzmond: зеленый
+[04:34:33] [Client thread/INFO]: [CHAT] Одинаковые сообщения можно отправлять раз в 15 секунд.
+[04:34:35] [Client thread/INFO]: [CHAT] Одинаковые сообщения можно отправлять раз в 15 секунд.
+[04:35:01] [Client thread/INFO]: [CHAT] [Рядом] Dezzzmond: зеленый
+[04:35:03] [Client thread/INFO]: [CHAT] Одинаковые сообщения можно отправлять раз в 15 секунд.
+[04:35:06] [Client thread/INFO]: [CHAT] Одинаковые сообщения можно отправлять раз в 15 секунд.
+[04:35:15] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[04:36:30] [Client thread/INFO]: [CHAT] [Рядом] Dezzzmond: a
+[04:36:37] [Client thread/INFO]: [CHAT] [Рядом] Dezzzmond: s
+[04:36:46] [Client thread/INFO]: [CHAT] AtomMiha, Dezzzmond, DimaR189, KAPMAHHUK, Orokam, X20Z9, devris, doldanik, kauf
+[04:45:18] [Client thread/INFO]: [CHAT] [Викторина] Этот предмет можно получить при убийстве дракона.
+[04:45:32] [Client thread/INFO]: [CHAT] [Викторина] DimaR189 победил за 13.87 секунд! 
+[04:45:32] [Client thread/INFO]: [CHAT] DimaR189 победил!
+[04:53:57] [Client thread/INFO]: [CHAT] [Мир] DimaR189: пипец
+[04:54:03] [Client thread/INFO]: [CHAT] [Мир] DimaR189: /warp shop чей?
+[05:05:22] [Client thread/INFO]: [CHAT] [Викторина] Сколько ног у крипера?
+[05:05:22] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[05:05:27] [Client thread/INFO]: [CHAT] [Викторина] DimaR189 победил за 5.61 секунд! 
+[05:05:27] [Client thread/INFO]: [CHAT] DimaR189 победил!
+[05:10:04] [Client thread/INFO]: [CHAT] Приветствуем новичка " hereqdfghb89000" на LemonCraft!
+[05:25:26] [Client thread/INFO]: [CHAT] [Викторина] Сколько HP у гиганта?
+[05:25:32] [Client thread/INFO]: [CHAT] [Викторина] DimaR189 победил за 5.8 секунд! 
+[05:25:32] [Client thread/INFO]: [CHAT] DimaR189 победил!
+[05:28:23] [Client thread/INFO]: [CHAT]  ficus616 просит телепортироваться к Вам.
+[05:28:23] [Client thread/INFO]: [CHAT] Для принятия запроса введите /tpaccept.
+[05:28:23] [Client thread/INFO]: [CHAT] Для отказа от запроса введите /tpdeny.
+[05:28:23] [Client thread/INFO]: [CHAT] Заявка будет автоматически отменена через 120 секунд.
+[05:29:00] [Client thread/INFO]: [CHAT] [Мир] ficus616: есть серые мистические цветы у ковонибудь
+[05:29:13] [Client thread/INFO]: [CHAT] [Мир] DimaR189: -
+[05:35:28] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[05:45:31] [Client thread/INFO]: [CHAT] [Викторина] Сколько разных цветов шерсти?
+[05:45:40] [Client thread/INFO]: [CHAT] [Викторина] abaccio победил за 9.42 секунд! 
+[05:45:40] [Client thread/INFO]: [CHAT] abaccio победил!
+[05:46:01] [Client thread/INFO]: [CHAT] [Мир] abaccio: ребят у вас есть проблемы с фпс?
+[06:05:34] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[06:05:35] [Client thread/INFO]: [CHAT] [Викторина] В кого превращается свинья, когда её поражает молния?
+[06:25:37] [Client thread/INFO]: [CHAT] [Викторина] Что используется в качестве составляющего блока катушки турбины?
+[06:31:11] [Client thread/INFO]: [CHAT] [Мир] [НЕ]  chelovec821:  есть у кого рядом жители
+[06:35:39] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[06:45:40] [Client thread/INFO]: [CHAT] [Викторина] Как называется руда кристализированной магии земли?
+[06:47:17] [Client thread/INFO]: [CHAT] [Викторина] KPAMTTyC победил за 96.94 секунд! 
+[06:47:17] [Client thread/INFO]: [CHAT] KPAMTTyC победил!
+[06:51:49] [Client thread/INFO]: [CHAT] [Мир] .chsv HunterTOP: q
+[06:51:55] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: q
+[07:05:45] [Client thread/INFO]: [CHAT] [Викторина] Кто создал Minecraft?
+[07:05:45] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[07:05:50] [Client thread/INFO]: [CHAT] [Викторина] HunterTOP победил за 5.21 секунд! 
+[07:05:50] [Client thread/INFO]: [CHAT] HunterTOP победил!
+[07:06:59] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Куплю магический терминал создания
+[07:13:34] [Client thread/INFO]: [CHAT] [Мир] .chsv HunterTOP: есть у кого тыквы
+[07:25:51] [Client thread/INFO]: [CHAT] [Викторина] Какого цвета эндермен?
+[07:25:55] [Client thread/INFO]: [CHAT] [Викторина] HunterTOP победил за 3.59 секунд! 
+[07:25:55] [Client thread/INFO]: [CHAT] HunterTOP победил!
+[07:35:54] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[07:40:47] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Сколько на данный момент стоит голодка?
+[07:40:56] [Client thread/INFO]: [CHAT] [Мир] .chsv HunterTOP: 400-500
+[07:41:10] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: А сингулярная жемчужина?
+[07:41:20] [Client thread/INFO]: [CHAT] [Мир] .chsv HunterTOP: могу продать
+[07:41:32] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Не просто цену узнаю
+[07:42:16] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Так сколько она стоит?
+[07:43:43] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Куплю голодку!
+[07:45:19] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Куплю голодку!
+[07:45:56] [Client thread/INFO]: [CHAT] [Викторина] Сколько здоровья у коровы?
+[07:46:00] [Client thread/INFO]: [CHAT] [Викторина] KPAMTTyC победил за 3.47 секунд! 
+[07:46:00] [Client thread/INFO]: [CHAT] KPAMTTyC победил!
+[07:47:49] [Client thread/INFO]: [CHAT] [Мир] Malka04: а че за лаги?
+[07:48:04] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: тож ток зашол чёт логает серв
+[07:48:08] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: дарова
+[07:48:28] [Client thread/INFO]: [CHAT] [Мир] Malka04: лагает жестко
+[07:48:38] [Client thread/INFO]: [CHAT] [Мир] Malka04: будто у меня 10 фпс или 5
+[07:48:39] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Куплю голодку!
+[07:49:02] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: ну у меня 200 фпс а лагает сервак
+[07:49:15] [Client thread/INFO]: [CHAT] [Мир] Malka04: у меня 500 фпс но лагает
+[07:49:20] [Client thread/INFO]: [CHAT] [Мир] [НЕ]  chelovec821:  у меня 20 фпс
+[07:49:26] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Куплю голодку!
+[07:53:49] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Куплю голодку!
+[07:57:56] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Куплю голодку!
+[07:59:54] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: ребзя как сетку привата убрать )
+[08:01:21] [Client thread/INFO]: [CHAT] [Мир] [НЕ]  chelovec821:  //sel
+[08:02:20] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: ага пасибки
+[08:02:31] [Client thread/INFO]: [CHAT] [Мир] .chsv HunterTOP: играет кто в игру dayz ?
+[08:06:00] [Client thread/INFO]: [CHAT] [Викторина] Сколько игровых режимов есть в minecraft?
+[08:06:00] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[08:06:05] [Client thread/INFO]: [CHAT] [Викторина] HunterTOP победил за 5.21 секунд! 
+[08:06:05] [Client thread/INFO]: [CHAT] HunterTOP победил!
+[08:07:55] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: нашол чеито железные вещи около спука с горы хех
+[08:08:35] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: тут щепцы свенина не жариня грудак жел штаны кожаные ну и из таума фигня какаета
+[08:26:04] [Client thread/INFO]: [CHAT] [Викторина] ID предмета, которым можно активировать портал в шахтёрский мир
+[08:27:40] [Client thread/INFO]: [CHAT] [Викторина] HunterTOP победил за 96.27 секунд! 
+[08:27:40] [Client thread/INFO]: [CHAT] HunterTOP победил!
+[08:33:39] [Client thread/INFO]: [CHAT] [Мир] ficus616: кто поможет с рунами стихий
+[08:34:39] [Client thread/INFO]: [CHAT] [Мир] ficus616: эх
+[08:36:06] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[08:37:16] [Client thread/INFO]: [CHAT] [Мир] ficus616: !!!!!!'[
+[08:37:23] [Client thread/INFO]: [CHAT] [Мир] ficus616: эх
+[08:46:07] [Client thread/INFO]: [CHAT] [Викторина] Сколько будет 6054*2?
+[08:47:20] [Client thread/INFO]: [CHAT] [Викторина] HunterTOP победил за 72.3 секунд! 
+[08:47:20] [Client thread/INFO]: [CHAT] HunterTOP победил!
+[08:47:44] [Client thread/INFO]: [CHAT] [Мир] gom204567: qq all
+[08:47:47] [Client thread/INFO]: [CHAT] [Мир] .chsv HunterTOP: q
+[08:48:52] [Client thread/INFO]: [CHAT] [Мир] gom204567: Ищем бирзовые цветочки
+[08:57:20] [Client thread/INFO]: [CHAT] [Мир] ficus616: кто поможет с рунами стехий
+[09:06:10] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[09:06:11] [Client thread/INFO]: [CHAT] [Викторина] Какой блок замедляет врага (например, зомби)?
+[09:06:25] [Client thread/INFO]: [CHAT] [Викторина] dimatop9999 победил за 13.63 секунд! 
+[09:06:25] [Client thread/INFO]: [CHAT] dimatop9999 победил!
+[09:07:50] [Client thread/INFO]: [CHAT] [Мир] gom204567: Че за лаги блэн
+[09:08:03] [Client thread/INFO]: [CHAT] [Мир] ficus616: незн
+[09:08:14] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: нужен рестарт сервера
+[09:08:49] [Client thread/INFO]: [CHAT] [Мир] ficus616: зачеи
+[09:09:03] [Client thread/INFO]: [CHAT] [Мир] ficus616: зачем
+[09:09:08] [Client thread/INFO]: [CHAT] [Мир] gom204567: Что бы не лагало
+[09:09:17] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: вайп лучше
+[09:09:19] [Client thread/INFO]: [CHAT] [Мир] ficus616: ааааа
+[09:09:25] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: лучше вайп от лагов :d
+[09:09:25] [Client thread/INFO]: [CHAT] [Мир] .chsv HunterTOP: да щас бы вайп
+[09:09:37] [Client thread/INFO]: [CHAT] [Мир] ficus616: поможете с рунами стихий
+[09:10:03] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: го бунт на вайп хех
+[09:10:15] [Client thread/INFO]: [CHAT] [Мир] ficus616: не
+[09:10:18] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: уфф.. хочу увидеть новые киты доната
+[09:10:23] [Client thread/INFO]: [CHAT] [Мир] .chsv HunterTOP: всм
+[09:10:26] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: в след вайп новые киты будут
+[09:10:36] [Client thread/INFO]: [CHAT] [Мир] .chsv HunterTOP: у даймондов тоже ?
+[09:10:37] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: было бы в этом, но лем забыл добавить поэтому в след вайпе будет
+[09:10:54] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus:  HunterTOP у вип/прем/даймонд будет другой кит
+[09:11:03] [Client thread/INFO]: [CHAT] [Мир] .chsv HunterTOP: ништяк
+[09:11:16] [Client thread/INFO]: [CHAT] [Мир] .chsv HunterTOP: ещё бы ехстра бис вернули бы
+[09:11:25] [Client thread/INFO]: [CHAT] [Мир] gom204567: Я тогда донатить буду ._.
+[09:11:45] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus:  HunterTOP врятли вернут, с ним сервер лагал...
+[09:11:52] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: ну зато мод какойто добавили вчера хоть
+[09:12:06] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: на автозаход если тебя кикнуло
+[09:12:13] [Client thread/INFO]: [CHAT] [Мир] Max_Mindshtorm: а где брать монетки для варпшопа?
+[09:12:36] [Client thread/INFO]: [CHAT] [Мир] ficus616: кто ботанию изучает?
+[09:12:39] [Client thread/INFO]: [CHAT] [Мир] gom204567: _а
+[09:12:41] [Client thread/INFO]: [CHAT] [Мир] gom204567: Я
+[09:12:42] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus:  Max_Mindshtorm /convert сумма
+[09:12:52] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: ну я неплохо знаю но ещё не приступал
+[09:13:03] [Client thread/INFO]: [CHAT] [Мир] ficus616: аааа
+[09:14:36] [Client thread/INFO]: [CHAT] [Мир] .chsv HunterTOP: главное чтоб из кита энергия не убрали
+[09:19:48] [Client thread/INFO]: [CHAT] [Мир] gom204567: У кого есть бирюзвые цветы?
+[09:20:13] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Куплю голодку!
+[09:22:23] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Куплю голодку!
+[09:26:14] [Client thread/INFO]: [CHAT] [Викторина] К какому типу игры относится Minecraft?
+[09:26:20] [Client thread/INFO]: [CHAT] [Викторина] Andrew_14 победил за 5.76 секунд! 
+[09:26:20] [Client thread/INFO]: [CHAT] Andrew_14 победил!
+[09:26:30] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Куплю голодку!
+[09:29:25] [Client thread/INFO]: [CHAT] [Мир] pro100sany: есть у кого нить яйцо или тортик?)
+[09:33:16] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 4 мобов.
+[09:35:37] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: парни есть варпы опыта ?
+[09:35:44] [Client thread/INFO]: [CHAT] [Мир] [Вип] Andrew_14: Куплю голодку!
+[09:36:17] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[09:36:41] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: warp sky
+[09:38:20] [Client thread/INFO]: [CHAT] [Мир] gom204567: У кого есть шелк касание?
+[09:42:18] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 3 мобов.
+[09:46:00] [Client thread/INFO]: [CHAT] [Мир] gom204567: У кого есть шелк касание?
+[09:46:19] [Client thread/INFO]: [CHAT] [Викторина] Какая фамилия Нотча?
+[09:47:03] [Client thread/INFO]: [CHAT] [Викторина] gom204567 победил за 44.41 секунд! 
+[09:47:03] [Client thread/INFO]: [CHAT] gom204567 победил!
+[09:48:57] [Client thread/INFO]: [CHAT] [Мир] gom204567: У кого есть шелк касание?
+[09:53:39] [Client thread/INFO]: [CHAT] [Server] **Перезагрузка сервера через 10 minutes**
+[09:58:39] [Client thread/INFO]: [CHAT] [Server] **Перезагрузка сервера через 5 minutes**
+[10:00:13] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: все афк?
+[10:00:17] [Client thread/INFO]: [CHAT] [Мир] gom204567: Да нет
+[10:01:51] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: да
+[10:02:02] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: где звездыыы
+[10:02:23] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: нееету
+[10:02:39] [Client thread/INFO]: [CHAT] [Server] **Перезагрузка сервера через 1 minute**
+[10:04:57] [Client thread/INFO]: Connecting to 145.239.131.135, 20005
+[10:06:13] [Client thread/INFO]: Connecting to 145.239.131.135, 20005
+[10:06:21] [Client thread/INFO]: [CHAT] §d§lЕсли §d§lвы §d§lнесколько §d§lмесяцев §d§lне §d§lменяли §d§lпароль §d§lи §d§lне §d§lлюбитель §d§lрегулярно §d§lменять §d§lсвои §c§lпароли, §d§lто §d§lрекомендуем §d§lвам §d§lустановить §d§lдополнительный §d§lпароль §d§lв §d§lнастройках §d§lигры. §d§lДля §d§lустановки §d§lпароля §d§lнажмите §d§lна §d§lкнопку: §a§nЗащита§a§n §a§nаккаунта
+[10:06:22] [Client thread/INFO]: [CHAT] ====================================================
+[10:06:22] [Client thread/INFO]: [CHAT] Добро пожаловать на сервер DragonTech,  Dezzzmond!
+[10:06:22] [Client thread/INFO]: [CHAT] Чтобы писать в глобальный чат, поставьте перед сообщением знак "!"
+[10:06:22] [Client thread/INFO]: [CHAT] Полезные команды /kit food, /kit start, /kit private
+[10:06:22] [Client thread/INFO]: [CHAT] Время на сервере: 10:59 PM
+[10:06:22] [Client thread/INFO]: [CHAT] ====================================================
+[10:06:22] [Client thread/INFO]: [CHAT] Нет новых писем.
+[10:09:15] [Client thread/INFO]: [CHAT] [Достижения] Игрок KAPMAHHUK убил Дракона Хаоса! Общее количество убийств: 3
+[10:12:36] [Client thread/INFO]: [CHAT] [Достижения] Игрок KAPMAHHUK убил Дракона Хаоса! Общее количество убийств: 4
+[10:12:51] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: мне лень...
+[10:13:08] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus:  KAPMAHHUK тебе не лень их убивать?
+[10:13:17] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: мне осколки надо оч
+[10:15:03] [Client thread/INFO]: [CHAT] [Мир] gom204567: У кого то есть лишнее семя разрастания? ._.
+[10:17:37] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 2 мобов.
+[10:18:03] [Client thread/INFO]: [CHAT] [Достижения] Игрок KAPMAHHUK убил Дракона Хаоса! Общее количество убийств: 5
+[10:23:04] [Client thread/INFO]: [CHAT] [Достижения] Игрок KAPMAHHUK убил Дракона Хаоса! Общее количество убийств: 6
+[10:25:43] [Client thread/INFO]: [CHAT] [Викторина] Что вы должны добыть первым делом, когда вы входите в выживание?
+[10:25:50] [Client thread/INFO]: [CHAT] [Викторина] Orokam победил за 7.22 секунд! 
+[10:25:50] [Client thread/INFO]: [CHAT] Orokam победил!
+[10:26:43] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 3 мобов.
+[10:29:47] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 2 мобов.
+[10:30:56] [Client thread/INFO]: [CHAT] [Достижения] Игрок KAPMAHHUK убил Дракона Хаоса! Общее количество убийств: 7
+[10:32:50] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 4 мобов.
+[10:34:44] [Client thread/INFO]: [CHAT] [Достижения] Игрок KAPMAHHUK убил Дракона Хаоса! Общее количество убийств: 8
+[10:35:53] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[10:38:57] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 1 мобов.
+[10:39:14] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: куда 2 хаоса делись?(
+[10:39:31] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: кристаллы есть,драконов нет...
+[10:40:15] [Client thread/INFO]: [CHAT] [Мир] няф-няф Fuliox: куплю квантовы шлем
+[10:42:36] [Client thread/INFO]: [CHAT] [Мир] Faceusav: в какой вкладке таума изучается теневая броня?
+[10:42:45] [Client thread/INFO]: [CHAT] [Достижения] Игрок X20Z9 убил Дракона Хаоса! Общее количество убийств: 47
+[10:44:47] [Client thread/INFO]: [CHAT] [Достижения] Игрок KAPMAHHUK убил Дракона Хаоса! Общее количество убийств: 9
+[10:44:59] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 7 мобов.
+[10:45:02] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: -7 юху
+[10:45:59] [Client thread/INFO]: [CHAT] [Викторина] На каком уровне вы можете найти алмазы?
+[10:46:04] [Client thread/INFO]: [CHAT] [Викторина] gom204567 победил за 4.85 секунд! 
+[10:46:04] [Client thread/INFO]: [CHAT] gom204567 победил!
+[10:52:58] [Client thread/INFO]: [CHAT] [Мир] [Вип] gostboy: продам ангельское кольцо за 50 монет
+[10:53:04] [Client thread/INFO]: [CHAT] [Мир] gom204567: Куплю
+[10:58:48] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: крушак сс купит кто?
+[11:00:02] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 5 мобов.
+[11:03:03] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 3 мобов.
+[11:06:03] [Client thread/INFO]: [CHAT] [Викторина] Когда вы делаете факелы, сколько вы получаете?
+[11:06:03] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[11:06:04] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 10 мобов.
+[11:06:08] [Client thread/INFO]: [CHAT] [Мир] Faceusav: 4
+[11:06:08] [Client thread/INFO]: [CHAT] [Викторина] HunterTOP победил за 4.55 секунд! 
+[11:06:08] [Client thread/INFO]: [CHAT] HunterTOP победил!
+[11:08:11] [Client thread/INFO]: [CHAT] Приветствуем новичка " maxim2343" на LemonCraft!
+[11:18:06] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 1 мобов.
+[11:23:35] [Client thread/INFO]: [CHAT] [Мир] Faceusav: rtp
+[11:26:07] [Client thread/INFO]: [CHAT] [Викторина] Из него как минимум должна быть рамка турбины из BigReactors
+[11:26:26] [Client thread/INFO]: [CHAT] [Викторина] KAPMAHHUK победил за 18.63 секунд! 
+[11:26:26] [Client thread/INFO]: [CHAT] KAPMAHHUK победил!
+[11:26:34] [Client thread/INFO]: [CHAT] [Мир] pro100sany: чё это?
+[11:26:38] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: турбинный корпус
+[11:27:01] [Client thread/INFO]: [CHAT] [Мир] pro100sany: какую коробку выбрать с 0% или с ???
+[11:27:17] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: 0
+[11:27:33] [Client thread/INFO]: [CHAT] [Мир] pro100sany: панель...
+[11:36:09] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[11:39:49] [Client thread/INFO]: [CHAT] [Мир] Aqua AtomMiha:  кто продаст мэ интерфеск
+[11:44:40] [Client thread/INFO]: [CHAT] [Мир] Aqua AtomMiha:  кто продаст композит
+[11:45:12] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[11:46:12] [Client thread/INFO]: [CHAT] [Викторина] Когда вы делаете железные решетки, сколько у вас получается?
+[11:46:18] [Client thread/INFO]: [CHAT] [Мир] pro100sany: 6
+[11:46:19] [Client thread/INFO]: [CHAT] [Мир] Max_Mindshtorm: 16
+[11:46:21] [Client thread/INFO]: [CHAT] [Мир] Faceusav: 16
+[11:46:22] [Client thread/INFO]: [CHAT] [Мир] pro100sany: 9
+[11:46:26] [Client thread/INFO]: [CHAT] [Викторина] LiteBoom победил за 14.53 секунд! 
+[11:46:26] [Client thread/INFO]: [CHAT] LiteBoom победил!
+[11:46:37] [Client thread/INFO]: [CHAT] [Мир] Max_Mindshtorm: 12?
+[11:48:12] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 20 мобов.
+[11:50:52] [Client thread/INFO]: [CHAT] [Мир] pro100sany: как ночное зрение в шлеме включить?
+[11:51:13] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[11:54:14] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[11:57:15] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[12:00:15] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[12:03:16] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 24 мобов.
+[12:03:18] [Client thread/INFO]: [CHAT] Приветствуем новичка " 0hits" на LemonCraft!
+[12:06:17] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[12:06:18] [Client thread/INFO]: [CHAT] [Викторина] Что на удочке заманивает свиней?
+[12:06:18] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[12:06:24] [Client thread/INFO]: [CHAT] [Викторина] KAPMAHHUK победил за 6.08 секунд! 
+[12:06:24] [Client thread/INFO]: [CHAT] KAPMAHHUK победил!
+[12:07:32] [Client thread/INFO]: [CHAT] [Мир] няф-няф Fuliox: куплю квантовый шлем
+[12:09:19] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 21 мобов.
+[12:12:21] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[12:15:22] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[12:16:48] [Client thread/INFO]: [CHAT] [Мир] Aqua AtomMiha:  кто 50 монет в долг даст
+[12:17:08] [Client thread/INFO]: [CHAT] [Мир] Aqua AtomMiha:  Сяб KAPMAHHUK
+[12:17:11] [Client thread/INFO]: [CHAT] [Мир] Aqua AtomMiha:  верну
+[12:18:23] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[12:21:24] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[12:22:00] [Client thread/INFO]: [CHAT] [Мир] Aqua AtomMiha:  продам Ультиматку
+[12:23:27] [Client thread/INFO]: [CHAT] [Мир] LiteBoom: почему в акватический генератор маны не поступает вода через трубы?
+[12:23:53] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: червак умер вобще ?
+[12:24:25] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 26 мобов.
+[12:26:25] [Client thread/INFO]: [CHAT] [Викторина] О чём идёт речь: "Большинство предметов имеют магический состав из неких элементов, которые могут быть использованы в магии"?
+[12:26:38] [Client thread/INFO]: [CHAT] [Викторина] KPAMTTyC победил за 12.45 секунд! 
+[12:26:38] [Client thread/INFO]: [CHAT] KPAMTTyC победил!
+[12:26:57] [Client thread/INFO]: [CHAT] [Мир] CMEPTb KPAMTTyC: кто в дс
+[12:27:15] [Client thread/INFO]: [CHAT] [Мир] pro100sany: го?
+[12:27:20] [Client thread/INFO]: [CHAT] [Мир] CMEPTb KPAMTTyC: пиши в лс
+[12:27:26] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 30 мобов.
+[12:28:36] [Client thread/INFO]: [CHAT] Приветствуем новичка " kindshadow" на LemonCraft!
+[12:30:27] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[12:30:46] [Client thread/INFO]: [CHAT] [Мир] LiteBoom: почему в акватический генератор маны не поступает вода через трубы?
+[12:33:19] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: у него вход 1
+[12:33:24] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: если что, снизу
+[12:33:28] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 19 мобов.
+[12:33:31] [Client thread/INFO]: [CHAT] [Мир] LiteBoom: серьёзно?
+[12:33:35] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: да
+[12:33:40] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: у него снизу вход
+[12:33:48] [Client thread/INFO]: [CHAT] [Мир] LiteBoom: пипец, я 30 мин сидел, думал что не так...
+[12:34:00] [Client thread/INFO]: [CHAT] [Мир] LiteBoom: Спасибо
+[12:34:25] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: рад был помочь x
+[12:34:27] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: xD
+[12:36:30] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[12:36:30] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 27 мобов.
+[12:38:29] [Client thread/INFO]: [CHAT] [Мир] Deatmor_Game: Передайте ебаном* сундуку что ему пизд* после вайпа я ему бл*ть мстить так буду за всех того кого
+[12:38:33] [Client thread/INFO]: [CHAT] [Мир] Deatmor_Game: Загриферил
+[12:39:32] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[12:42:33] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 19 мобов.
+[12:45:33] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 24 мобов.
+[12:46:34] [Client thread/INFO]: [CHAT] [Викторина] Что выпадет, если убить ведьму в тот момент, когда она пьёт своё зелье?
+[12:46:37] [Client thread/INFO]: [CHAT] Приветствуем новичка " thisismoron" на LemonCraft!
+[12:46:38] [Client thread/INFO]: [CHAT] [Викторина] KPAMTTyC победил за 4.59 секунд! 
+[12:46:38] [Client thread/INFO]: [CHAT] KPAMTTyC победил!
+[12:47:08] [pool-3-thread-4/ERROR]: Textures payload has been tampered with (signature invalid)
+[12:48:34] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 21 мобов.
+[12:51:35] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 21 мобов.
+[12:54:38] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[12:55:29] [pool-3-thread-5/ERROR]: Textures payload has been tampered with (signature invalid)
+[12:57:38] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 19 мобов.
+[13:00:39] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[13:03:40] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 20 мобов.
+[13:06:41] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[13:06:41] [Client thread/INFO]: [CHAT] [Викторина] Что Minecraft игроки (в одиночной игре) используют для ускорения ночи?
+[13:06:42] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 21 мобов.
+[13:06:47] [Client thread/INFO]: [CHAT] [Мир] Faceusav: кровать
+[13:06:49] [Client thread/INFO]: [CHAT] [Викторина] pro100sany победил за 7.46 секунд! 
+[13:06:49] [Client thread/INFO]: [CHAT] pro100sany победил!
+[13:06:56] [Client thread/INFO]: [CHAT] [Мир] Faceusav: ,_,
+[13:09:42] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[13:12:43] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 20 мобов.
+[13:15:43] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 24 мобов.
+[13:18:44] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[13:20:45] [Client thread/INFO]: [CHAT] [Мир] ficus616: кто даст грибы
+[13:21:45] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 20 мобов.
+[13:24:47] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 24 мобов.
+[13:24:56] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: продаю булыгу
+[13:26:47] [Client thread/INFO]: [CHAT] [Викторина] Как называется первый тип дерева?
+[13:26:50] [Client thread/INFO]: [CHAT] [Викторина] KAPMAHHUK победил за 3.04 секунд! 
+[13:26:50] [Client thread/INFO]: [CHAT] KAPMAHHUK победил!
+[13:27:47] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 21 мобов.
+[13:30:48] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 19 мобов.
+[13:33:48] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 26 мобов.
+[13:36:49] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[13:36:50] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[13:39:50] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 17 мобов.
+[13:42:51] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 26 мобов.
+[13:45:52] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 21 мобов.
+[13:46:53] [Client thread/INFO]: [CHAT] [Викторина] Сколько будет 700700-236106?
+[13:47:16] [Client thread/INFO]: [CHAT] [Викторина] pro100sany победил за 23.83 секунд! 
+[13:47:16] [Client thread/INFO]: [CHAT] pro100sany победил!
+[13:48:54] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[13:51:54] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[13:52:10] [Client thread/INFO]: [CHAT] [Мир] GaddamnRight: куплю 8 шерсти любой
+[13:52:15] [Client thread/INFO]: [CHAT] [Мир] Orokam: тп
+[13:54:55] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 20 мобов.
+[13:57:55] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[14:00:56] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[14:03:57] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[14:06:14] [Client thread/INFO]: [CHAT] [Мир] ficus616: я это зделол
+[14:06:19] [Client thread/INFO]: [CHAT] [Мир] ficus616: а нет
+[14:06:37] [Client thread/INFO]: [CHAT] [Мир] ficus616: 5 блокол лазурита не хвотает эх
+[14:06:50] [Client thread/INFO]: [CHAT] [Мир] Faceusav: а что ты делал?
+[14:06:57] [Client thread/INFO]: [CHAT] [Викторина] Сколько есть видов шерсти?
+[14:06:57] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[14:06:58] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 24 мобов.
+[14:07:00] [Client thread/INFO]: [CHAT] [Викторина] GaddamnRight победил за 3.25 секунд! 
+[14:07:00] [Client thread/INFO]: [CHAT] GaddamnRight победил!
+[14:07:31] [Client thread/INFO]: [CHAT] [Мир] kindshadow:  Кому нужна душа флюгеля?
+[14:07:41] [Client thread/INFO]: [CHAT] [Мир] kindshadow:  да или что с ней делать
+[14:07:47] [Client thread/INFO]: [CHAT] [Мир] ficus616: наземная алгоритмная плита но не хватает 5 блоков лазурита
+[14:08:03] [Client thread/INFO]: [CHAT] [Мир] Faceusav: фикус тп
+[14:08:36] [Client thread/INFO]: [CHAT] [Мир] kindshadow:  окей кому ядро виверны нужен? 1 фиг я только зашёл на сервер
+[14:09:40] [Client thread/INFO]: [CHAT] [Мир] CMEPTb KPAMTTyC: когда был вайп ?
+[14:09:59] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[14:11:31] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: Почему некоторые квесты не получается забрать?
+[14:11:43] [Client thread/INFO]: [CHAT] [Мир] Faceusav: покликай несколько раз
+[14:11:52] [Client thread/INFO]: [CHAT] [Мир] Faceusav: не сразу сдаётся
+[14:12:03] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: куплю черепа сушек
+[14:12:05] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: Я выбираю награду
+[14:12:15] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: и кнопка забрать не подсвечивается
+[14:12:20] [Client thread/INFO]: [CHAT] [Мир] Faceusav: карманник могу 6 продать
+[14:12:30] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: мне косарями
+[14:12:32] [Client thread/INFO]: [CHAT] [Мир] Orokam:  KAPMAHHUK могу 3к продать
+[14:12:46] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: цена
+[14:12:55] [Client thread/INFO]: [CHAT] [Мир] Orokam: хз
+[14:13:01] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 19 мобов.
+[14:13:07] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: могу звезды)
+[14:13:36] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: всем ку
+[14:13:44] [Client thread/INFO]: [CHAT] [Мир] Faceusav: к У
+[14:13:44] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: аеер,есть черепа?
+[14:13:46] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: господи, мне эти флюгели и сингулярки уже по ночам снятся
+[14:13:48] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: да, есть
+[14:13:53] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: сколько
+[14:13:57] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: много
+[14:14:02] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: больше 1к
+[14:14:22] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: на зведы поменяешь 1к5?
+[14:14:34] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: 1 к 4 давай
+[14:14:35] [Client thread/INFO]: [CHAT] [Мир] Orokam: на шопе 1к4)
+[14:14:42] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: там нет уже 2 дня ничего
+[14:14:53] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: ну лан,тебе можно
+[14:15:10] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: тп со всеми черепами,только количество запомни
+[14:15:17] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: 1234 черепа ровно :O
+[14:16:02] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 25 мобов.
+[14:17:31] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: продаю звезды за черепа
+[14:17:51] [Client thread/INFO]: [CHAT] [Мир] Orokam: зачем они тебе?
+[14:18:54] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: продаю звезды за черепа
+[14:19:03] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[14:21:58] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: я песок душ размножаю, потом как нибудь звёзды на варп завезу :)
+[14:22:04] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[14:22:09] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: так го я все сделаю
+[14:22:25] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: не
+[14:22:31] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: песок множится часа 3-4 всего с 1 ячейкой
+[14:22:32] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: не хочу тебе 200к черепов давать
+[14:22:36] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: а че
+[14:22:47] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus:  KAPMAHHUK у нас 1 день размножался и лишь 300к
+[14:22:51] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: а надо 600к :D
+[14:22:54] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: ............
+[14:23:08] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: я утром за час+- 80к сделал и побежал сюда
+[14:23:08] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: а нетю, 800к надо для 200к черепов
+[14:23:15] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: -_-
+[14:23:30] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: для визеров 3к4 черепа к песку
+[14:23:37] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: а да :d
+[14:23:44] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: т.е. 4/3*200k
+[14:24:05] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: могу до 8ч вечера все переделать
+[14:25:04] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[14:25:06] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: сколько уже песка?
+[14:27:05] [Client thread/INFO]: [CHAT] [Викторина] Высота уровня моря в блоках?
+[14:27:09] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: 7564 эт что?
+[14:27:14] [Client thread/INFO]: [CHAT] На игрока AerGameChannel наложен мут администратором Lemon по причине "флуд" на 5 минут.
+[14:27:22] [Client thread/INFO]: [CHAT] На игрока KAPMAHHUK наложен мут администратором Lemon по причине "флуд" на 5 минут.
+[14:27:34] [Client thread/INFO]: [CHAT] [Викторина] KPAMTTyC победил за 29.29 секунд! 
+[14:27:34] [Client thread/INFO]: [CHAT] KPAMTTyC победил!
+[14:28:05] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 25 мобов.
+[14:31:06] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 20 мобов.
+[14:31:38] [Client thread/INFO]: [CHAT] [Мир] GaddamnRight: как пользоваться токарным столом?
+[14:34:06] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 25 мобов.
+[14:37:08] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[14:37:09] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[14:39:28] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: Кто продаст 8 алмазов:?
+[14:39:42] [Client thread/INFO]: [CHAT] [Мир] GaddamnRight: я
+[14:39:46] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: цена
+[14:39:51] [Client thread/INFO]: [CHAT] [Мир] GaddamnRight: твоя
+[14:39:57] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: Я не знаю
+[14:40:06] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: Я играю час .-.
+[14:40:10] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 25 мобов.
+[14:40:24] [Client thread/INFO]: [CHAT] [Мир] GaddamnRight: тп
+[14:43:11] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 20 мобов.
+[14:46:11] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 13 мобов.
+[14:47:11] [Client thread/INFO]: [CHAT] [Викторина] Сколько HP у гиганта?
+[14:47:13] [Client thread/INFO]: [CHAT] [Викторина] AerGameChannel победил за 1.91 секунд! 
+[14:47:13] [Client thread/INFO]: [CHAT] AerGameChannel победил!
+[14:49:12] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 25 мобов.
+[14:52:12] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 24 мобов.
+[14:52:43] [Client thread/INFO]: [CHAT] Приветствуем новичка " GameOverss" на LemonCraft!
+[14:55:13] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[14:55:57] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: Куплю 14 обсидиана и 32 кварца
+[14:58:13] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 24 мобов.
+[15:00:44] [Client thread/INFO]: [CHAT] [Мир] Yarik12N: Куплю демоническую броню.
+[15:00:48] [Client thread/INFO]: [CHAT] [Мир] kindshadow:  Это норм то что 2 обелиска с тёмными рыцарими появились?
+[15:00:52] [Client thread/INFO]: [CHAT] [Мир] Yarik12N: p Куплю демоническую броню, писать в лс.
+[15:01:14] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[15:02:59] [Client thread/INFO]: [CHAT] [Мир] ka1LK: продам вив кирку за 780
+[15:03:24] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel:  ka1LK, никто не купит
+[15:03:32] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: никому уже не нужны вив кирки, тем более по такой цене
+[15:03:45] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: кому надо - купит подешевле у знакомых
+[15:03:46] [Client thread/INFO]: [CHAT] [Мир] ka1LK: это минимальная цена
+[15:03:56] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: я очень рад
+[15:04:15] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[15:07:16] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[15:07:16] [Client thread/INFO]: [CHAT] [Викторина] Сколько разных размеров у слизи?
+[15:07:16] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[15:07:19] [Client thread/INFO]: [CHAT] [Викторина] AerGameChannel победил за 2.9 секунд! 
+[15:07:19] [Client thread/INFO]: [CHAT] AerGameChannel победил!
+[15:09:06] [pool-3-thread-6/ERROR]: Textures payload has been tampered with (signature invalid)
+[15:10:18] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 18 мобов.
+[15:10:24] [Client thread/INFO]: [CHAT] [Мир] ka1LK: куплю жемчуг
+[15:10:29] [Client thread/INFO]: [CHAT] [Мир]  Muffin DevilGrasssss: продам
+[15:10:58] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: куплю черепа
+[15:11:01] [Client thread/INFO]: [CHAT] [Мир] ka1LK: продам
+[15:11:31] [Client thread/INFO]: [CHAT] [Мир] kindshadow:  кому нужно ядро виверны и 3 семя пустоты за предметы из квестов?
+[15:11:48] [Client thread/INFO]: [CHAT] [Мир] ka1LK: какие предметы
+[15:12:08] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: всем хай
+[15:12:11] [Client thread/INFO]: [CHAT] [Мир] kindshadow:  по типу руд инструментов и т.д
+[15:13:19] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 21 мобов.
+[15:13:22] [Client thread/INFO]: [CHAT] [Мир] kindshadow:  возле меня два обелиска древних целые кому надо от туда аспекты тп
+[15:14:51] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: Куплю 3 черепа скелета иссушителя
+[15:15:00] [Client thread/INFO]: [CHAT] [Мир] ka1LK: продам
+[15:15:04] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: цена
+[15:15:17] [Client thread/INFO]: [CHAT] [Мир] ka1LK: 5монет
+[15:15:31] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel:  ka1LK минималка на 1 череп - 5 монет
+[15:15:49] [Client thread/INFO]: [CHAT] [Мир] GaddamnRight: для чего нужна душа флюгеля?
+[15:15:53] [Client thread/INFO]: [CHAT] [Мир] ka1LK: а теперь пойми что я написал 1 штука 5монет
+[15:16:20] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[15:16:21] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel:  ka1LK, внимательно прочитай что ты написал
+[15:16:40] [Client thread/INFO]: [CHAT] [Мир] ka1LK: пойми что я умный
+[15:16:47] [Client thread/INFO]: [CHAT] [Мир] ka1LK: и не буду продовать за 5
+[15:16:53] [Client thread/INFO]: [CHAT] [Мир] ka1LK: и я уже продал за 15
+[15:16:56] [Client thread/INFO]: [CHAT] [Мир] ka1LK: так что помолчи
+[15:17:02] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel:  ka1LK, молчать я не обязан, это первое
+[15:17:11] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: второе: ты не написал что за 1 шт, я сделал замечание
+[15:17:38] [Client thread/INFO]: [CHAT] [Мир] ka1LK: а дальше
+[15:17:39] [Client thread/INFO]: [CHAT] [Мир] ka1LK: что
+[15:17:47] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: а дальше ты начал нести херь
+[15:17:54] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: вот собсна и всё
+[15:17:57] [Client thread/INFO]: [CHAT] [Мир] ka1LK: я продал уже и меня не интерисует твое мнение
+[15:18:09] [Client thread/INFO]: [CHAT] [Мир] GaddamnRight:  :D
+[15:18:12] [Client thread/INFO]: [CHAT] [Мир] ka1LK: и учебник руского языка у меня есть
+[15:18:16] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: могу сказать то же самое в твой адрес
+[15:18:19] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: да, я вижу
+[15:18:21] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: руского
+[15:18:22] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: да
+[15:18:37] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: а сушка блоки ломает?
+[15:18:41] [Client thread/INFO]: [CHAT] [Мир] ka1LK: собсна что за слово?
+[15:18:44] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: ааааа ищу тёмый дуб через ртп и в 3 раз тепает в мицелевый биом аааа
+[15:18:52] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: если у тебя нету на него денег - так и скажи, я тебе на Qiwi перекину денежку чтобы ты его купил
+[15:19:01] [Client thread/INFO]: [CHAT] [Мир] ka1LK: о давай
+[15:19:06] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: говори номер
+[15:19:16] [Client thread/INFO]: [CHAT] [Мир] ka1LK: на каспи сможешь??
+[15:19:20] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 30 мобов.
+[15:19:22] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: чё за нн
+[15:19:38] [Client thread/INFO]: [CHAT] [Мир] ka1LK: сможешь?
+[15:19:41] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: неа
+[15:19:50] [Client thread/INFO]: [CHAT] [Мир] ka1LK: щясь скину киви
+[15:20:40] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: Продам 558
+[15:21:20] [Client thread/INFO]: [CHAT] [Мир]  Muffin DevilGrasssss:  а че мана наполнитель не робит
+[15:21:42] [Client thread/INFO]: [CHAT] [Мир] Dezzzmond: режим басика поменяй
+[15:21:46] [Client thread/INFO]: [CHAT] [Мир] GaddamnRight: сколко стоит МЭ терминал в звёздах незера
+[15:22:21] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 20 мобов.
+[15:23:14] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: Кто поможет пройти квест с порталом в край? ресы верну
+[15:23:21] [Client thread/INFO]: [CHAT] [Мир] GaddamnRight: может кто зачарить алм кирку на эф V?
+[15:23:30] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: тп
+[15:24:12] [Client thread/INFO]: [CHAT] [Мир] Faceusav: ура +3-4 чанка
+[15:24:36] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: Кто поможет пройти квест с порталом в край? ресы верну
+[15:24:47] [Client thread/INFO]: [CHAT] [Мир] Faceusav: их не вернуть
+[15:24:51] [Client thread/INFO]: [CHAT] [Мир] kiritohka21: там ресы забераются
+[15:24:54] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: а как ты вернёшь?
+[15:24:57] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: а
+[15:25:00] [Client thread/INFO]: [CHAT] [Мир] KOT_HAPKOT_: лол..
+[15:25:10] [Client thread/INFO]: [CHAT] [Мир] :G:G:G: zombie_virus: копать и только копать)
+[15:25:22] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[15:25:38] [Client thread/INFO]: [CHAT] [Рядом] Dezzzmond: sdf
+[15:27:22] [Client thread/INFO]: [CHAT] [Викторина] Какого цвета гаст?
+[15:27:24] [Client thread/INFO]: [CHAT] [Мир] dimatop9999: как на зывается варм где можно скинуть зачерование
+[15:27:27] [Client thread/INFO]: [CHAT] [Викторина] KPAMTTyC победил за 4.29 секунд! 
+[15:27:27] [Client thread/INFO]: [CHAT] KPAMTTyC победил!
+[15:27:41] [Client thread/INFO]: [CHAT] [Мир] Faceusav: shop
+[15:27:46] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel:  dimatop9999, варп называется "ткань поглощения зачарований"
+[15:28:23] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 22 мобов.
+[15:28:44] [Client thread/INFO]: [CHAT] [Мир] dimatop9999: warp
+[15:31:23] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 20 мобов.
+[15:34:26] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[15:34:46] [Client thread/INFO]: [CHAT] [Мир] GaddamnRight: норм в ад зашёл
+[15:35:06] [Client thread/INFO]: [CHAT] [Мир] GaddamnRight: чуть не убил чел с рпглол
+[15:35:37] [Client thread/INFO]: [CHAT] [Мир] GaddamnRight: в итоге убил
+[15:36:10] [Client thread/INFO]: [CHAT] [Мир] GaddamnRight: в аду настолько хард, что в алм броне с 2-х тык пробьют?
+[15:36:49] [Client thread/INFO]: [CHAT] [Мир] \(*.*)/ KAPMAHHUK: продаю звезды за черепа 1к4
+[15:37:27] [Client thread/INFO]: [CHAT] [Сэйв] Выполняется сохранка карты...
+[15:37:28] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 21 мобов.
+[15:39:23] [Client thread/INFO]: [CHAT] [Мир] Faceusav: карманник на 1 звезду тоже разменяешь?
+[15:40:06] [Client thread/INFO]: [CHAT] [Мир] devris: всем ку ку
+[15:40:09] [Client thread/INFO]: [CHAT] [Мир] AerGameChannel: ку
+[15:40:28] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 25 мобов.
+[15:41:51] [Client thread/INFO]: [CHAT] [Мир] dimatop9999: кто продаст теневую катану и почём
+[15:42:27] [Client thread/INFO]: [CHAT] [Мир] dimatop9999: кто продаст теневую катану и почём
+[15:43:00] [Client thread/INFO]: [CHAT] [Мир] dimatop9999: кто продаст теневую катану и почём или пустотную
+[15:43:28] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 23 мобов.
+[15:43:45] [Client thread/INFO]: [CHAT] [Мир] dimatop9999: кто продаст теневую катану и почём или пустотную
+[15:46:29] [Client thread/INFO]: [CHAT] [ФермаЛимит] Удалено 24 мобов.
+[15:46:53] [Client thread/INFO]: [CHAT] [Мир] Rolk321321: почему мне награду не дают уже -56 снова
+[15:47:29] [Client thread/INFO]: [CHAT] [Викторина] Сколько разных цветов шерсти?

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>347</width>
+    <height>110</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QComboBox" name="part">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>141</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Флаг</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Оса</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Кувалда</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Рык</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Разгон</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Генка</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Колесо с шипами</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Колесо с шипами (пов.)</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Колесо с цепями</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Колесо с цепями (пов.)</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QSpinBox" name="spinBox">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>10</y>
+      <width>42</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="value">
+     <number>1</number>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="StartBTN">
+    <property name="geometry">
+     <rect>
+      <x>230</x>
+      <y>10</y>
+      <width>75</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Start</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="part_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>40</y>
+      <width>141</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Флаг</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Оса</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Кувалда</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Рык</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Разгон</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Генка</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Колесо с шипами</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Колесо с шипами (пов.)</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Колесо с цепями</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Колесо с цепями (пов.)</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_2">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>40</y>
+      <width>42</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="value">
+     <number>0</number>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="part_3">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>70</y>
+      <width>141</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Флаг</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Оса</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Кувалда</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Рык</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Разгон</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Генка</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Колесо с шипами</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Колесо с шипами (пов.)</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Колесо с цепями</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Колесо с цепями (пов.)</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_3">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>70</y>
+      <width>42</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="value">
+     <number>0</number>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
